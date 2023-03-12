@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "607541113231",
+    "project_id": "flutter-otp-7fff5",
+    "storage_bucket": "flutter-otp-7fff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607541113231:android:3be6234b09d3d560355bfa",
+        "android_client_info": {
+          "package_name": "com.example.authentication_otp_googleaccount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607541113231-p5il05nasvo7eg96fg270dh7a4u0dal1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentication_otp_googleaccount",
+            "certificate_hash": "ffe5ce614ddbba0f3306de8d27f83a2aa5ecc836"
+          }
+        },
+        {
+          "client_id": "607541113231-l32uevp7lb2ae0mkg09bmlc88vcna4ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQ3gHG5lpOtRtQRSbfumC1TBJPddeAwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607541113231-1am50k0e4s9ehieh5l6llqhkq3qdtv96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607541113231:android:199b491a5e639653355bfa",
+        "android_client_info": {
+          "package_name": "com.example.firebase_otp_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607541113231-arplgvqlt7qk2kid0ncqtrsqd6lpcqn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_otp_google",
+            "certificate_hash": "ffe5ce614ddbba0f3306de8d27f83a2aa5ecc836"
+          }
+        },
+        {
+          "client_id": "607541113231-l32uevp7lb2ae0mkg09bmlc88vcna4ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQ3gHG5lpOtRtQRSbfumC1TBJPddeAwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607541113231-1am50k0e4s9ehieh5l6llqhkq3qdtv96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
